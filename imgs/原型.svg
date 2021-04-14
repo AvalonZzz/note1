@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <rect
+       x="25.657875"
+       y="143.52374"
+       width="43.564933"
+       height="16.570711"
+       id="rect72" />
+    <rect
+       x="72.430042"
+       y="130.42753"
+       width="43.832203"
+       height="18.174328"
+       id="rect66" />
+    <rect
+       x="150.74001"
+       y="132.03115"
+       width="49.177593"
+       height="23.519718"
+       id="rect60" />
+    <rect
+       x="82.586284"
+       y="80.180858"
+       width="25.390605"
+       height="10.958051"
+       id="rect54" />
+    <rect
+       x="81.517206"
+       y="185.21778"
+       width="40.357699"
+       height="14.699824"
+       id="rect32" />
+    <rect
+       x="128.0221"
+       y="86.060788"
+       width="39.55589"
+       height="15.234363"
+       id="rect26" />
+    <rect
+       x="31.003265"
+       y="86.328057"
+       width="39.288621"
+       height="17.10525"
+       id="rect20" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffd5d5;stroke-width:0.264583"
+       id="rect10"
+       width="57.462948"
+       height="39.288624"
+       x="21.648832"
+       y="73.499123" />
+    <rect
+       style="fill:#ffd5d5;stroke-width:0.264583"
+       id="rect12"
+       width="68.688263"
+       height="39.021351"
+       x="113.58955"
+       y="74.033661" />
+    <rect
+       style="fill:#ffd5d5;stroke-width:0.264583"
+       id="rect16"
+       width="76.171814"
+       height="39.823158"
+       x="63.075607"
+       y="171.58704" />
+    <text
+       xml:space="preserve"
+       id="text18"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect20);fill:#ffffff;fill-opacity:1;stroke:none;"><tspan
+         x="31.003906"
+         y="92.121422"><tspan
+           style="font-size:6.35px;fill:#ffffff">构造函数</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text24"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect26);fill:#ffffff;fill-opacity:1;stroke:none;"><tspan
+         x="128.02148"
+         y="91.853844"><tspan
+           style="font-size:6.35px;fill:#ffffff">对象实例</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text30"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect32);fill:#ffffff;fill-opacity:1;stroke:none;"><tspan
+         x="81.517578"
+         y="191.01205"><tspan
+           style="font-size:6.35px;fill:#ffffff">原型对象</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.646319,97.286108 c 0.623628,-0.08909 1.241216,-0.24819 1.870887,-0.267272 5.699133,-0.172699 11.404788,0.121288 17.105249,0 0.806561,-0.01717 1.599685,-0.22698 2.405425,-0.267269 3.7227,-0.186134 7.49385,0 11.22532,0"
+       id="path36" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.2532,96.751565 c -0.62363,-0.712716 -1.44736,-1.291098 -1.87089,-2.138154 -0.17818,-0.356359 0.71272,0.35636 1.06908,0.534541 0.49366,0.246827 1.51313,0.734218 0.80181,1.603613 -0.76733,0.937844 -1.7904,1.75497 -2.93996,2.138159 -0.30474,0.101578 -1.06592,0.71738 -0.80181,0.53454 1.26022,-0.872464 2.49451,-1.7818 3.74177,-2.672699"
+       id="path38" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155.55086,115.19317 c -1.17789,1.43717 -2.03507,3.10092 -3.20723,4.54358 -1.35298,1.6652 -2.95906,3.11724 -4.27631,4.81085 -2.16909,2.78883 -1.24021,2.1004 -2.93997,5.34539 -3.11673,5.95012 -0.29291,-0.24619 -2.67269,4.81085 -2.64614,5.62304 -4.55561,11.91153 -8.01809,17.10525 -3.16571,4.74857 -1.37135,1.64912 -4.00904,5.07812 -0.3917,0.50921 -0.64603,1.12013 -1.06908,1.60362 -0.21152,0.24174 -0.57467,0.3074 -0.80181,0.53454 -0.63356,0.63356 -1.03832,1.84013 -1.60362,2.40542 -0.14086,0.14086 -0.44545,0.0891 -0.53454,0.26727 -0.11952,0.23906 0.0648,0.54252 0,0.80181 -0.11004,0.44017 -0.83252,0.98152 -1.06907,1.33635 -0.22765,0.34146 -0.13447,0.67068 -0.26727,1.06908 -0.11953,0.35858 -0.60734,0.47769 -0.80181,0.80181 -0.14495,0.24157 -0.12232,0.56022 -0.26727,0.8018 -0.54624,0.9104 -1.36758,1.39882 -1.87089,2.40543"
+       id="path40" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.4004,164.37076 c 0.40769,1.19313 -0.67115,5.20878 0.26727,6.1472 0.50789,0.50789 1.42966,-0.14919 2.13815,-0.26727 2.53016,-0.4217 4.97989,-0.74725 7.48355,-1.33635 0.49836,-0.11726 3.2522,-0.55702 3.74178,-0.80181 0.66053,-0.33027 -0.0923,-0.26727 0.53453,-0.26727"
+       id="path42" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.471992,113.32228 c 0.409263,0.95495 1.19435,1.71774 1.603616,2.67269 1.536639,3.5855 2.377913,7.49691 3.474503,11.22532 0.692234,2.3536 1.666695,4.60969 2.405427,6.94901 1.325616,4.19779 2.694347,8.44856 4.276312,12.56167 0.472943,1.22965 1.369129,2.27028 1.870888,3.4745 0.124843,0.29963 0.489272,2.7589 0.534537,2.93997 0.389533,1.55813 1.142111,3.00523 1.603619,4.54358 0.136247,0.45416 0.455596,3.31662 0.801806,4.00904 0.188645,0.37729 0.526129,0.3967 0.801809,0.53454 0.645211,0.32261 1.100572,1.60766 1.336347,2.13816 0.275561,0.62001 0.587254,1.22721 0.80181,1.87088 0.05635,0.16904 -0.125992,0.40855 0,0.53454 0.063,0.063 0.204274,-0.063 0.267268,0 0.265592,0.26559 -0.120946,0.94814 0.267272,1.33635"
+       id="path44" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.904544,165.97437 c 1.246129,0.25245 1.749467,1.44574 2.672697,2.13816 0.360561,0.27042 1.019743,0.48521 1.336346,0.80181 0.195446,0.19544 1.087909,1.4794 1.336347,1.60362 0.159369,0.0797 0.375172,-0.0797 0.534541,0 0.360291,0.18014 0.843671,0.78087 1.336347,0.53454 0.539953,-0.26998 0.08972,-0.53644 0.267268,-1.06908 0.101579,-0.30474 0.35636,-0.53454 0.534541,-0.80181 0.178178,-0.35636 0.408546,-0.6911 0.534538,-1.06908 0.143655,-0.43096 0.142472,-0.89955 0.267271,-1.33635 0.322956,-1.13035 0.267269,-2.27274 0.267269,-3.4745"
+       id="path46" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.006529,196.4431 c -4.816109,-0.59636 -14.406747,1.32099 -18.708867,-1.06908 -2.181989,-1.21221 -4.110315,-2.83352 -6.147199,-4.27631 -0.857586,-0.60746 -4.78363,-3.47769 -5.612659,-4.54358 -0.611518,-0.78624 -0.908111,-1.7734 -1.336347,-2.6727 -1.653516,-3.47238 -2.954393,-6.9995 -4.009044,-10.69078 -2.525182,-8.83814 -3.207234,-17.05162 -3.207234,-26.19241 0,-2.6727 0,-5.34539 0,-8.01809 0,-1.24725 -0.223116,-2.51463 0,-3.74177 -0.685598,-1.13167 0.636055,-1.57666 0.801809,-2.40543 0.322674,-1.61337 -0.508297,0.068 0.267269,-1.87088 0.221955,-0.55489 0.597572,-1.04197 0.801809,-1.60362 0.484757,-1.33308 0.366746,-2.97113 0.801808,-4.27631 0.209205,-0.62762 0.657664,-1.41743 0.801808,-2.13816 0.06989,-0.34944 -0.08643,-0.72336 0,-1.06908 0.190191,-0.76076 0.402119,-1.34363 0.534541,-2.13815 0.0029,-0.0174 -0.07274,-0.99634 0,-1.06908 0.248928,-0.24893 0.267269,0.0209 0.267269,-0.53454"
+       id="path48" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.243406,119.73675 c 0.267269,-0.71272 0.461396,-1.45734 0.801808,-2.13816 0.753645,-1.50729 2.345731,-2.93996 4.009043,-2.93996 0.321026,0 1.055315,0.14051 1.336348,0 0.496185,-0.2481 1.313933,-0.80181 1.870887,-0.80181 0.01818,0 1.406035,-0.66243 1.603615,-0.26727 0.199213,0.39842 -0.07323,0.89696 0,1.33634 0.172464,1.03478 0.710094,2.22003 1.069081,3.20724 0.26783,0.73654 0.810921,2.4191 1.336347,3.20724 0.357039,0.53555 1.069078,1.23586 1.069078,1.87088"
+       id="path50" />
+    <text
+       xml:space="preserve"
+       id="text52"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect54);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="82.585938"
+         y="85.974938"><tspan
+           style="font-size:6.35px">new</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text58"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect60);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="150.74023"
+         y="137.82455"><tspan
+           style="font-size:6.35px">——proto——</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text64"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect66);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="72.429688"
+         y="136.22103"><tspan
+           style="font-size:6.35px">prototype</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text70"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect72);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="25.658203"
+         y="149.31673"><tspan
+           style="font-size:6.35px">constructor</tspan></tspan></text>
+  </g>
+</svg>
