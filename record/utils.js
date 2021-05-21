@@ -13,8 +13,9 @@ export function getQueryStringArgs(){
 }
 
 /**
- * 检测浏览器中是否含有参数插件，适用于IE以外浏览器即IE10以上浏览器
+ * 检测浏览器中是否含有参数插件，适用于IE以外浏览器及IE10以上浏览器
  * @param {String} name 插件名字
+ * @return {Boolean} 浏览器是否安装参数插件
  */
 export function hasPlugin(name){
     name = name.toLowerCase()
