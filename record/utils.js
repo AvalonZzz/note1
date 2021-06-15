@@ -78,6 +78,7 @@ export class BrowserDetector {
     isOpera() { return this.isOpera_Gte20; }
 }
 
+// 跨浏览器事件处理程序和事件对象
 export let EventUtil = {
     addHandler(element,type,handler){
         if(element.addEventListener){
@@ -97,5 +98,29 @@ export let EventUtil = {
         }else{
             element['on'+type] = null
         }
-    }
+    },
+
+    getEvent(event){
+		return event ? event : window.event
+	},
+	
+	getTarget(event){
+		return event.target || event.srcElement
+	},
+	
+	preventDefault(event){
+		if(event.preventDefault){
+			event.preventDefault()
+		}else{
+			event.returnValue = false
+		}
+	},
+	
+	stopPropagation(event){
+		if(event.stopPropagation){
+			event.stopPropagation()
+		}else{
+			event.cancelBubble = true
+		}
+	}
 }
